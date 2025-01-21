@@ -1,0 +1,18 @@
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  
+
+}
+.text_error {
+    width: 100%;
+    margin: 0 auto;
+    height: 2em;
+    font-size: 2em;
+  }
+  .error {
+    
+    font-size: 8em;
+    color: red;
+  }
