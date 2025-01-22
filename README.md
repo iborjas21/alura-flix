@@ -167,8 +167,9 @@ ________________________________________________________________________________
 
 🗂️ Estructura del Proyecto
 
-![image](https://github.com/user-attachments/assets/81d48fc5-e52f-4cbb-a7da-65ffaa9dbca5)
-![image](https://github.com/user-attachments/assets/b7d0630d-34a0-48be-8c7f-6f66016ce483)
+
+![image](https://github.com/user-attachments/assets/85155946-946d-43a5-a6a1-3b89f442c365)
+![image](https://github.com/user-attachments/assets/52b03e77-a546-4d15-8f5c-37a8c8646975)
 
 
 
