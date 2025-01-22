@@ -182,7 +182,7 @@ Consideraciones generales del proyecto. ⚠️
 
 
 El repositorio actual, archivo api.js apunta al servidor 
-https://my-json-server.typicode.com/iborjas21/alura-flix-api
+https://my-json-server.typicode.com/iborjas21/alura-flix-api/video
 
 https://my-json-server.typicode.com/
 
