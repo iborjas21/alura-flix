@@ -7,6 +7,7 @@ Corresponde a un desafio Challenge de Alura Latam, en donde los usuarios pueden 
 
 _________________________________________________________________________________________________________________
 
+
 Características:
 
 Banner:
@@ -19,14 +20,15 @@ Presenta dos Links, el primero le redirige al Home y otro que le permitira añad
 
 Con esta aplicacion usted podrá
 
-1- Visualizar videos : Los videos se cargan automáticamente desde el servidor simulado al abrir la página, dando click a la imagen del video.
+1- Visualizar videos : Los videos se cargan automáticamente desde el servidor simulado al abrir la página, dando click a la imágen del video.
 
 
 
-2- Agregar videos : Completa el formulario con Titulo, Categoria, URL de la imagen, URL del video, una breve descripcion y  luego haz clic en "Salvar" .  El video se agregara en el grupo de la categoria asignada. De momento estan configuradas 3 categorias (FRONT END, BACK END, IMNOVACION Y GESTION) que le asignaran un formato de color de fondo predefinido. Cualquier otra categoria que se agregue, no tendra esa condicion hasta modificar el codigo
+2- Agregar videos : Completa el formulario con Titulo, Categoria, URL de la imágen, URL del video, una breve descripción y  luego haz clic en "Salvar" .  El video se agregará en el grupo de la categoría asignada. De momento estan configuradas 3 categorías (FRONT END, BACK END, IMNOVACION Y GESTION) que le asignarán un formato de color de fondo predefinido. Cualquier otra categoría que se agregue, no tendrá esa condición hasta modificar el código y darle estilos a esas nuevas categorías.
 
 
 ![image](https://github.com/user-attachments/assets/83100ae8-767a-48db-a3b7-f840633af3e8)
+
 
 
 3- Eliminar videos : Haga clic en el ícono de la papelera para eliminar un video.
@@ -36,54 +38,89 @@ Con esta aplicacion usted podrá
 
 
 
-4- Editar videos: Haga clic en el ícono de edicion para editar un video. Puede editar todos olos campos 
 
-    Titulo, 
-    Categoria, 
-    URL de la imagen, 
+4- Editar videos: Haga clic en el ícono de edicion para editar un video. Puede editar todos los campos 
+
+    Título, 
+    Categoría, 
+    URL de la imágen, 
     URL del video,
-    Descripcion
+    Descripción
 
 ![image](https://github.com/user-attachments/assets/f91040bb-0308-4a14-aeb9-663c956de0b2)
 
-Al dar clik al icono edicion, se abrira la siguiente pantalla
+
+
+Al dar clik al ícono edición, se abrirá la siguiente pantalla
 
 ![image](https://github.com/user-attachments/assets/18f9a619-ce01-495a-9076-2727e6d1894f)
 
-Complete todos los campos, o en todo caso modifique solo el campo que quiera editar y los cambios se reflejaran en la Card del video
+Complete todos los campos, o en todo caso modifique solo el campo que quiera editar y los cambios se reflejarán en la Card del video
 
 
-   -  Clik en Guardar, para confirmar la modificaci'on.
+   -  Clik en Guardar, para confirmar la modificación.
    -  Clik en Limpiar, para borrar todos los campos y agregar todo desde cero.
-   -  Clik en Home en el Banner, para regresar a la pagina principal, si no quiere 
-      guardar  ningun cambio.
+   -  Clik en Home en el Banner, para regresar a la página principal, si no quiere 
+      guardar  ningún cambio.
 
 
 
-Los cambios se veran reflñejados en la Card del video.
+Los cambios se verán reflejados en la Card del video.
 
-Prueba de modificacion de Titulo
+
+Prueba de modificación de Título
 
 Titulo Original
 
 ![image](https://github.com/user-attachments/assets/3fa550aa-5b5b-42a7-82b0-333b957df83a)
+
+
 
 Titulo Modificado
 
 ![image](https://github.com/user-attachments/assets/79ae2f11-2dac-42b3-8a8c-4ecabeca6d39)
 
 
-Prueba de modificacion de la imagen
 
-Imagen Original. Categoria FRONT END
+Prueba de modificación de la imágen
+
+
+Imágen Original. Categoría FRONT END
 
 ![image](https://github.com/user-attachments/assets/4da17725-8912-4b9d-b360-16fdcab3cbe0)
 
 
 
-Imagen Modificada. Cabe resaltar que En este caso se modificaron 3 campos. Titulo, Image y Categoria. Se puede observar la modificacion ejecutada en las tres opciones
+
+Imágen Modificada. Cabe resaltar que En este caso se modificaron 3 campos. Título, Imágen y Categoria. Se puede observar la modificación ejecutada en las tres opciones
 
 ![image](https://github.com/user-attachments/assets/a23b9b60-c182-4d8f-a3e8-fccfedc821b8)
+
+
+
+Prueba Modificacion del video
+
+Primero hay que dar clik a la imágen para activar el video
+
+Imágen
+
+![image](https://github.com/user-attachments/assets/8a3f0e27-1134-4f65-928b-829a12cdd753)
+
+Video activado
+
+![image](https://github.com/user-attachments/assets/d026ced9-06f4-40f1-8b52-7025a2e071c6)
+
+
+Prueba modificación video. Se modificó el título del video para dejar evidencia.
+
+![image](https://github.com/user-attachments/assets/439ea8f6-1c18-4ad9-862e-c28153c30d7e)
+
+
+Prueba de carga de nuevo video con una categoría no configurada en estilos.
+
+![image](https://github.com/user-attachments/assets/9cbe6e45-fc9b-4105-ae8f-67da65f6f68d)
+
+
 
 
 _________________________________________________________________________________________________________________
@@ -161,25 +198,27 @@ ________________________________________________________________________________
 
 imagenes del proyecto
 
-[url=https://postimg.cc/jWbrLCm9][img]https://i.postimg.cc/jWbrLCm9/player.png[/img][/url]
+https://i.postimg.cc/9f4Xg7pW/player.png
 
-[url=https://postimg.cc/bGs1SNnx][img]https://i.postimg.cc/bGs1SNnx/imagen-1.png[/img][/url]
+https://i.postimg.cc/jWbrLCm9/player.png
 
-[url=https://postimg.cc/sM0hzdLv][img]https://i.postimg.cc/sM0hzdLv/imagen-2.png[/img][/url]
+https://i.postimg.cc/bGs1SNnx/imagen-1.png
 
-[url=https://postimg.cc/67k47VtK][img]https://i.postimg.cc/67k47VtK/imagen-3.png[/img][/url]
+https://i.postimg.cc/sM0hzdLv/imagen-2.png
 
-[url=https://postimg.cc/VJTWRCmG][img]https://i.postimg.cc/VJTWRCmG/imagen-4.png[/img][/url]
+https://i.postimg.cc/67k47VtK/imagen-3.png
 
-[url=https://postimg.cc/ft538GYz][img]https://i.postimg.cc/ft538GYz/imagen-5.png[/img][/url]
+https://i.postimg.cc/VJTWRCmG/imagen-4.png
 
-[url=https://postimg.cc/68wXQyDP][img]https://i.postimg.cc/68wXQyDP/imagen-6.png[/img][/url]
+https://i.postimg.cc/ft538GYz/imagen-5.png
 
-[url=https://postimg.cc/DWw3qRfd][img]https://i.postimg.cc/DWw3qRfd/imagen-7.png[/img][/url]
+https://i.postimg.cc/68wXQyDP/imagen-6.png
 
-[url=https://postimg.cc/qNQ9MQct][img]https://i.postimg.cc/qNQ9MQct/imagen-8.png[/img][/url]
+https://i.postimg.cc/DWw3qRfd/imagen-7.png
 
-[url=https://postimg.cc/DSCMK0FL][img]https://i.postimg.cc/DSCMK0FL/imagen-9.png[/img][/url]
+https://i.postimg.cc/qNQ9MQct/imagen-8.png
+
+https://i.postimg.cc/DSCMK0FL/imagen-9.png
 
 
 _________________________________________________________________________________________________________________
